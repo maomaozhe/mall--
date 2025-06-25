@@ -324,7 +324,6 @@ const price = ref(0)
 const content = ref('')
 /**
  * 获取商品信息
- *
  */
 const getProdInfo = () => {
   uni.showLoading()
